@@ -6,4 +6,4 @@ This branch contains two classification ML models in TensorFlow and Scikit Learn
 - Variable analysis and extraction done in Rivet (C++)
 - Further analysis and ML analysis done using python scripts
 
-DETAIL OF METHODOLOGY AND ANALYSIS IN THE PROJECT REPORT (report.pdf)
+DETAIL OF METHODOLOGY AND ANALYSIS IN THE PROJECT REPORT (Semester_8_Project_Report.pdf)
